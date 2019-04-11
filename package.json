@@ -1,0 +1,25 @@
+{
+  "name": "tieba-plus-plus",
+  "version": "0.0.1",
+  "description": "biu!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "download": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lurenwu/tieba-creeper.git"
+  },
+  "author": "hhui64",
+  "license": "MIT",
+  "bugs": {
+  },
+  echo "# tieba-creeper" >> README.md  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "colors": "^1.3.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "single-line-log": "^1.1.2"
+  }
+}
